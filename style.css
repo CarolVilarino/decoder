@@ -1,0 +1,30 @@
+body{
+    background-color: #15141a; 
+}
+.caixa {
+    margin: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #c68cfb;
+    width: 400px;
+    border-radius: 5px;
+    padding: 30px;
+}
+textarea { 
+    border-radius: 10px;
+    width: 300px;
+    height: 150px;
+}
+.botoes {
+    padding-top: 10px;
+}
+/*
+    #f16b8c rosa
+    #6bb86a verde
+    #c68cfb
+    ##2b2a33
+    ##602695
+    ##15141a
+    #ed3966
+*/
